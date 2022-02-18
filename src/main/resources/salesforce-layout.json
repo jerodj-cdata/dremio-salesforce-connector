@@ -1,0 +1,24 @@
+{
+  "sourceType": "SalesforceARP",
+  "metadataRefresh": {
+    "datasetDiscovery": true
+  },
+  "form": {
+    "tabs": [
+      {
+        "name": "General",
+        "isGeneral": true,
+        "sections": [
+          {
+            "name": "Salesforce Source",
+            "layout": "row",
+            "elements": [
+                {
+                }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
